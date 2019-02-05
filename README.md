@@ -1,1 +1,1 @@
-# data-categorization
+# email-categorization
